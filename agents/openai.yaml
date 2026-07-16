@@ -1,0 +1,7 @@
+interface:
+  display_name: "Car Deal Finder"
+  short_description: "Rank used-car listings by value"
+  default_prompt: "Use $car-deal-finder to find and rank used-car deals for my search criteria."
+
+policy:
+  allow_implicit_invocation: true

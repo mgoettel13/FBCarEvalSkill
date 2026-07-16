@@ -1,0 +1,12 @@
+{
+  "name": "car-deal-finder",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Codex/OpenClaw skill scripts for ranking used-car listings by deal quality.",
+  "scripts": {
+    "mvp": "node scripts/run_mvp.js --criteria examples/camry-hybrid-zip.json --listings examples/facebook-marketplace-sample.json --values examples/kbb-values-sample.json --out examples/mvp-results.json",
+    "test": "node scripts/test_mvp.js",
+    "validate": "node scripts/validate_skill.js"
+  }
+}

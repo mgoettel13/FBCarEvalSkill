@@ -1,0 +1,17 @@
+{
+  "query": "Toyota Camry Hybrid",
+  "make": "Toyota",
+  "model": "Camry",
+  "requiredKeywords": ["hybrid"],
+  "zipCode": "90210",
+  "radiusMiles": 75,
+  "minYear": 2018,
+  "maxPrice": 25000,
+  "maxMileage": 100000,
+  "maxResults": 10,
+  "actorInput": {
+    "search": "Toyota Camry Hybrid",
+    "location": "90210",
+    "radiusMiles": 75
+  }
+}

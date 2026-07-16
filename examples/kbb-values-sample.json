@@ -1,0 +1,29 @@
+[
+  {
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "Hybrid LE",
+    "fairMarketPriceAverage": 21800,
+    "fairMarketPriceLow": 20300,
+    "fairMarketPriceHigh": 23200
+  },
+  {
+    "year": 2019,
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "Hybrid XLE",
+    "fairMarketPriceAverage": 20500,
+    "fairMarketPriceLow": 18800,
+    "fairMarketPriceHigh": 21900
+  },
+  {
+    "year": 2021,
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "Hybrid SE",
+    "fairMarketPriceAverage": 24100,
+    "fairMarketPriceLow": 22600,
+    "fairMarketPriceHigh": 25800
+  }
+]
